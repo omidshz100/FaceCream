@@ -1,4 +1,3 @@
-```markdown
 # Face Landmark Detection and Visualization
 
 This project is an iOS application that uses Apple's Vision Framework to detect facial landmarks in real-time video from the camera. The app processes frames, identifies facial landmarks, and visualizes them on the screen with numbered points and a bounding box around the detected face.
@@ -20,7 +19,7 @@ This project is an iOS application that uses Apple's Vision Framework to detect 
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/your-username/face-landmark-detection.git
-   ```
+
 2. Open the project in Xcode:
    ```bash
    open FaceLandmarkDetection.xcodeproj
