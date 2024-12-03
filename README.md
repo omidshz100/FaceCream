@@ -79,16 +79,3 @@ This project is open-source under the MIT License.
 Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
 
 ```
-
----
-
-### Steps to Use It on GitHub
-1. Save this content in a file named `README.md` in your project directory.
-2. Add the file to your repository and push it to GitHub:
-   ```bash
-   git add README.md
-   git commit -m "Add README file"
-   git push origin main
-   ```
-   
-Now your repository will display this `README.md` as the main documentation on GitHub. Let me know if you need further assistance!
